@@ -21,7 +21,7 @@ Using srecord:
 https://developer.arm.com/documentation/ka004285/latest
 
 # VGA output
-All wiring an documentation can be found on:
+All wiring and documentation can be found on:
 
 http://www.breatharian.eu/hw/picovga/index_en.html
 
